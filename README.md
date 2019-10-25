@@ -6,6 +6,6 @@ What this project does:
 3. Project modifies recieved data to suitable data structures and sends them back to HTTP request
 
 Tech Stack:
-- Django 2.2.6
-- Django REST Framework 3.10.3
+- django 2.2.6
+- django REST Framework 3.10.3
 - python-ldap 3.2
